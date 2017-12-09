@@ -1,3 +1,5 @@
+Simple program that illustrates client/server interaction using sockets.
+
 To Run:
 
 gcc -o client client.c
